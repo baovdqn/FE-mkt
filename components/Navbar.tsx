@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <div className="navbar bg-base-100 w-full max-w-6xl m-auto">
       <div className="flex-1">
-        <a className="btn btn-ghost normal-case text-xl">Media I</a>
+        <a className="btn btn-ghost normal-case text-xl">DC Project</a>
       </div>
       <div className="flex-none">
         <ul className="menu menu-horizontal p-0">
